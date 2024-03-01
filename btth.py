@@ -16,7 +16,6 @@ bar_graph = px.bar(
  orientation='h'
 )
 
-from pipreqs import pipreqs
-pipreqs "C:\Users\HP\PycharmProjects\pythonProject3"
+
 
 
